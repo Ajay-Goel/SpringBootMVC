@@ -1,4 +1,4 @@
-# SpringBootMVC
+# SpringBoot - MVC
 # Web Application
 
 Dive deep into Spring MVC, an essential web framework for Java developers who work on enterprise-level projects. 
